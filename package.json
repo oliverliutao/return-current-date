@@ -1,0 +1,27 @@
+{
+  "name": "return-current-date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://oliverliutao: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@github.com/oliverliutao/return-current-date.git"
+  },
+  "keywords": [
+    "private",
+    "npm",
+    "package"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverliutao/return-current-date/issues"
+  },
+  "homepage": "https://github.com/oliverliutao/return-current-date#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
